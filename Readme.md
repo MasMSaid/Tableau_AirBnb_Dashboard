@@ -27,6 +27,8 @@ This project was inspired by Alex Freberg's Tableau tutorial on YouTube, which g
 
 📊 The Analysis
 
+![AirBnb Dashboard](screenshot.png)
+
 1.🛏️ Average Price per Bedroom
 
 A bar chart shows that average price increases with the number of bedrooms — from $96.2 for 1-bedroom listings up to $584.8 for 6-bedroom properties.
